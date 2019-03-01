@@ -1,5 +1,5 @@
 # TwitterSentimentAnalysis
-Makes sentiment analysis from the tweets of the last 7 days for the given word
+Makes sentiment analysis from the tweets of the last 7 days for the given word by using 2 methods lexicon based and naive bayes machine learning algorithm.
 
 To be able to run look at : https://github.com/kato1903/TwitterSentimentAnalysis/blob/master/Run%20Tutorial.pdf
 
