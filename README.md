@@ -8,3 +8,5 @@ Data Sources :
 sentiwordnet : https://sentiwordnet.isti.cnr.it/
 
 positive.txt and negative.txt : https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+
+![run tutorial-7](https://user-images.githubusercontent.com/37152525/53659203-fb7dbe80-3c6b-11e9-942c-c3c6bdb65591.png)
