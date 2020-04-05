@@ -39,8 +39,8 @@ public class Twitter4jExampleREST {
 		// 2) Instantiate a new Twitter client
 		// Go to https://dev.twitter.com/ to register a new Twitter App and get credentials
 		Twitter twitter = tf.getInstance();
-		AccessToken accessToken = new AccessToken("1058760116323958786-ctap8Dcfg2SaWHzdqnp1dabfEon4CB", "F2lPi0zE9VYLQHkzQTM73xITOMLvstO49A6ljVCObF7yf");
-		twitter.setOAuthConsumer("auySgA9r3fAheI5g2f0BXL6ig", "irA4nN7JlWHYCpucFLD3D4PGKPjYfYROWliNrC61lThz43igg7");
+		AccessToken accessToken = new AccessToken("");
+		twitter.setOAuthConsumer("");
 		twitter.setOAuthAccessToken(accessToken);
 		
 		// Task1: search for all the tweets with the keywords: football world cup
